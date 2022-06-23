@@ -1,0 +1,4 @@
+me\ikevoodoo\healthsteal\listeners\PlayerDamageListener.class
+me\ikevoodoo\healthsteal\config\MainConfig.class
+me\ikevoodoo\healthsteal\commands\ReloadCommand.class
+me\ikevoodoo\healthsteal\HealthSteal.class

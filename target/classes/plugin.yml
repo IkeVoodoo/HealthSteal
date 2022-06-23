@@ -1,0 +1,6 @@
+name: HealthSteal
+version: '1.0'
+main: me.ikevoodoo.healthsteal.HealthSteal
+api-version: 1.17
+authors: [ IkeVoodoo ]
+description: Steal health on attack
